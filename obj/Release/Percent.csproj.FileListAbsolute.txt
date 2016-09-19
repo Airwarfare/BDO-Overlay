@@ -1,0 +1,17 @@
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\bin\Release\Percent.exe.config
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\bin\Release\Percent.exe
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\bin\Release\Percent.pdb
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\bin\Release\MetroFramework.Design.dll
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\bin\Release\MetroFramework.dll
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.Loading.resources
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.Properties.Resources.resources
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.Startup.resources
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.csproj.GenerateResource.Cache
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.exe
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.pdb
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.Mainmenu.resources
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.BossTimers.resources
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.PercentParser.resources
+C:\Users\Jordan\documents\visual studio 2015\Projects\Percent\obj\Release\Percent.Settings.resources
